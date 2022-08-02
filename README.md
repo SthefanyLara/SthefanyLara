@@ -1,10 +1,3 @@
-### Olá, eu sou a Sthefany Lara 👋
-
-- 🔭 Hoje trabalho com Front End 
-- 🌱 Estudando Typescript e Python 
-- 📫 contate-me no e-mail: sthefany.gabriele@hotmail.com
-- 😄 Pronouns: ela/dela
-
 
 <div >
   <a href="https://github.com/SthefanyLara">
